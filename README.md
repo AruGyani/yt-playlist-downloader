@@ -5,7 +5,7 @@ Simply uses the pytube3 library to access and download all YouTube videos stored
 
 ## Setup
 
-Download the `index.py` file, and make sure the *pytube3 dependenciy is installed.
+Download the `index.py` file, and make sure the *pytube3 dependency is installed.
 
 Run the file using `python index.py`.
 
